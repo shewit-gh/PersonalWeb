@@ -1,0 +1,140 @@
+
+.img1{
+    float: right;
+    
+}
+.small-container{
+    max-width: 2000px;
+    height: 57px;
+   
+}
+.big-container{
+    max-width: 2000px;
+    height: auto;
+    display: block;
+
+}
+.nav-div{
+    box-sizing: border-box;
+    max-width: 728px;
+    height: 57px;
+    margin-left: 370px;
+    margin-right: 118.4px;
+    position: relative;
+    text-size-adjust: 100%;
+    
+}
+.small-container-1{
+    border-bottom-color: rgb(238, 238, 238);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    max-width: 700px;
+    height: 56px;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+.navbar{
+    max-width: 490px;
+    height: 56px;
+    margin-left: 80px;
+    margin-right: 105px;
+   
+}
+.big-container-2{
+    max-width: 728px;
+    height: auto;
+    margin-left: 370px;
+    margin-right: 118.4px;
+}
+.big-container-3{
+    max-width: 700px;
+    height: auto;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+.links{
+    display: inline-block;
+    width: 86.44px;
+    color: rgb(0,182,254);
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 20px;
+     
+}
+p{
+    font-family: "PT Serif", serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 24px;
+
+}
+.home-heading{
+    font-family: Lato, sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    height: 72px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.div-form{
+    width: 700px;
+    height: 48px;
+    margin-bottom: 15px;
+}
+    
+.communication-media{
+    width: 50px;
+    height: 300px;
+    top: 211px;
+    position: fixed;
+}
+h2{
+    font-family: Lato, sans-serif;
+    font-size: 40px;
+    line-height: 43px;
+    margin-bottom: 10px;
+
+}
+.badge{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    background-color: rgb(238, 238, 238);
+    height: 30px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+a{
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    color: rgb(0,182,254);
+}
+.father-heading, .underlined-heading{
+    font-family: Lato, sans-serif;
+    font-size: 48px;
+    line-height: 51px;
+    margin-top: 20px;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    
+
+}
+.underlined-heading, .listeditems{
+    border-bottom: 1px solid rgb(238, 238, 238);
+
+}
+.listeditems{
+    margin-bottom: 32px;
+}
+.quotes-heading{
+    font-family: Lato, sans-serif;
+    font-size: 48px;
+    line-height: 51px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+

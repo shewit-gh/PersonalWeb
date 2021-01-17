@@ -52,15 +52,22 @@
     margin-left: 14px;
     margin-right: 14px;
 }
-.links{
+.navbar .navbar-nav .nav-link{
     display: inline-block;
     width: 86.44px;
-    color: rgb(0,182,254);
+    color:#00B6FE;
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
     line-height: 16px;
-    padding: 20px;
      
+}
+.navbar .navbar-nav .nav-link:hover{
+    color:#99e1fe;
+}
+
+
+.navbar .navbar-nav .nav-item{
+    padding-left: 20px;
 }
 p{
     font-family: "PT Serif", serif;
@@ -79,8 +86,8 @@ p{
 
 }
 .div-form{
-    width: 700px;
     height: 48px;
+    margin-top: 40px;
     margin-bottom: 15px;
 }
     
@@ -111,6 +118,7 @@ a{
     font-family: Arial, sans-serif;
     background-color: transparent;
     color: rgb(0,182,254);
+    text-decoration: none;
 }
 .father-heading, .underlined-heading{
     font-family: Lato, sans-serif;

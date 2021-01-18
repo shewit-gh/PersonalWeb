@@ -61,11 +61,12 @@
     line-height: 16px;
      
 }
+.navbar .navbar-nav .nav-link:visited{
+   color:#0091cb;
+}
 .navbar .navbar-nav .nav-link:hover{
     color:#99e1fe;
 }
-
-
 .navbar .navbar-nav .nav-item{
     padding-left: 20px;
 }
@@ -87,7 +88,7 @@ p{
 }
 .div-form{
     height: 48px;
-    margin-top: 40px;
+    margin-top: 50px;
     margin-bottom: 15px;
 }
     
@@ -114,11 +115,16 @@ h2{
     margin-right: 10px;
     padding: 5px;
 }
+
 a{
     font-family: Arial, sans-serif;
     background-color: transparent;
     color: rgb(0,182,254);
     text-decoration: none;
+}
+a:hover{
+    color:#99e1fe;
+    text-decoration:none;
 }
 .father-heading, .underlined-heading{
     font-family: Lato, sans-serif;

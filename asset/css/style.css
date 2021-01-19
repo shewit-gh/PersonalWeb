@@ -151,4 +151,14 @@ a:hover{
     margin-bottom: 10px;
 
 }
-
+.footer-div{
+    margin-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 1px solid #eee;
+    text-align: center;
+    color: #aaaaaa;
+}
+.footer-div p{
+    font-size: 14px;
+}

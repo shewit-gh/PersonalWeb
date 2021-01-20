@@ -61,9 +61,7 @@
     line-height: 16px;
      
 }
-.navbar .navbar-nav .nav-link:visited{
-   color:#0091cb;
-}
+
 .navbar .navbar-nav .nav-link:hover{
     color:#99e1fe;
 }
@@ -173,4 +171,7 @@ a:hover{
     color: purple;
     
 
+}
+.card .card-body p{
+    font-size: 15px;
 }

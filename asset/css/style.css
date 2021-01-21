@@ -83,6 +83,20 @@ p{
     height: 300px;
     top: 211px;
     position: fixed;
+    
+}
+.communication-media a{
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+.items{
+    width: 50;
+    height: 50;
+    color: white;
 }
 h2{
     font-family: Lato, sans-serif;

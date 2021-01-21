@@ -22,11 +22,10 @@
     border-bottom-width: 1px;
     max-width: 100%;
     margin-left: 14px;
-    margin-right: 14px;
+    
 }
 .navbar{
     max-width: 490px;
-    height: 56px;
     margin-left: 80px;
     margin-right: 105px;
    
@@ -39,7 +38,6 @@
     margin-right: 14px;
 }
 .navbar .navbar-nav .nav-link{
-    display: inline-block;
     width: 86.44px;
     color:#00B6FE;
     font-family: "Open Sans", sans-serif;
@@ -136,12 +134,21 @@ a:hover{
     
 
 }
-.underlined-heading, .listeditems{
+.underlined-heading, .listeditems, .father-heading{
     border-bottom: 1px solid rgb(238, 238, 238);
 
 }
 .listeditems{
     margin-bottom: 32px;
+}
+.listeditems a{
+    color: black;
+}
+.listeditems a:hover{
+    color:#99e1fe;;
+}
+.listeditems p{
+    font-size: x-large;
 }
 .quotes-heading{
     font-family: Lato, sans-serif;
@@ -177,16 +184,18 @@ a:hover{
 .card .card-body p{
     font-size: 15px;
 }
+
 @media screen and (max-width: 766px){
  .small-container-1{
      border-bottom:none;
  }
+ /*  
 }
 @media screen and (max-width: 766px){
  .mover, .big-container-3{
     margin-top:140px;
  }
-    
+ */   
 }
 .author-name{
     display: flex;
